@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FakeDownloader</string>
+    <string name="download">Download</string>
+    <string name="image_content_desc">image after download</string>
+</resources>
